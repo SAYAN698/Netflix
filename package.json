@@ -11,5 +11,8 @@
   "dependencies": {
     "express.js": "^1.0.0",
     "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
